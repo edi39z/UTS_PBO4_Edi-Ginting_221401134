@@ -1,1 +1,3 @@
 # UTS_PBO4_Edi-Ginting_221401134
+
+program sederhana berbasis Command Line Interface (CLI) yang memungkinkan pengguna untuk melakukan operasi perbankan dasar seperti registrasi akun baru, transfer uang antar akun, simpan uang ke dalam akun, dan cek informasi rekening pribadi. Pengguna dapat menggunakan program ini dengan memilih opsi yang sesuai dari menu utama dan mengikuti instruksi untuk setiap operasi. Program akan memberikan konfirmasi setiap kali operasi berhasil dilakukan dan menampilkan informasi rekening secara lengkap. MyBanking System dirancang untuk memberikan pengalaman pengguna yang intuitif dan efisien dalam mengelola transaksi perbankan melalui antarmuka teks.
